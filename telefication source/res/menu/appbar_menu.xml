@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clear"
+        android:title="clear"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/create"
+        android:title="create"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/disconnect"
+        android:title="disconnect"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/connect"
+        android:title="connect"
+        app:showAsAction="always"
+        />
+</menu>
